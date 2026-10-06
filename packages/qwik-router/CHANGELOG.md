@@ -1,5 +1,16 @@
 # @qwik.dev/city
 
+## 2.0.0-rc.3
+
+### Patch Changes
+
+- 🐞🩹 the router serializes less state into every page (by [@maiieul](https://github.com/maiieul) in [#9090](https://github.com/QwikDev/qwik/pull/9090))
+
+- 🐞🩹 `cacheControl` with zero values no longer drops directives or sets an empty header (by [@intellix](https://github.com/intellix) in [#9173](https://github.com/QwikDev/qwik/pull/9173))
+
+- Updated dependencies []:
+  - @qwik.dev/core@2.0.0-rc.3
+
 ## 2.0.0-rc.2
 
 ### Patch Changes

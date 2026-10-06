@@ -1,5 +1,14 @@
 # @qwik.dev/mcp
 
+## 2.0.0-rc.3
+
+### Patch Changes
+
+- 🐞🩹 click-to-source opens the right line when devtools or mcp is enabled (by [@Aejkatappaja](https://github.com/Aejkatappaja) in [#9153](https://github.com/QwikDev/qwik/pull/9153))
+
+- Updated dependencies []:
+  - @qwik.dev/core@2.0.0-rc.3
+
 ## 2.0.0-rc.2
 
 ### Patch Changes
